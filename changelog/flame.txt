@@ -1,0 +1,5 @@
+Infinity v4.0
+Build Date : 12/10/2026
+- Merge October Security patches
+- Add dolby
+- Improve responsiveness
