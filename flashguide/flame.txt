@@ -1,0 +1,29 @@
+Device: POCO M7 5G / REDMI 14C 5G (flame)
+
+Flashing Instructions:
+
+* Clean Flash:
+
+1. Download and flash infinity X recovery image using
+fastboot flash recovery recovery.img
+
+2. Reboot Recovery
+
+3. Wipe Data, Metadata, Cache, Dalvik-Cache
+
+4. Sideload ROM
+
+5. Format Data
+
+6. Reboot System
+
+* Dirty Flash:
+
+1. Reboot to Recovery
+
+2. Sideload ROM
+
+3. Reboot System
+
+* OTA:
+1. Simply upgrade via ota updater (either if pushed or via local update import)
