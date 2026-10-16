@@ -1,5 +1,5 @@
-Infinity v4.0
-Build Date : 12/10/2026
-- Merge October Security patches
-- Add dolby
-- Improve responsiveness
+Infinity v4.1
+Build Date : 15/10/2026
+- Merged October Security patches
+- Added all features from android 16
+- Added OTA support
