@@ -1,0 +1,8 @@
+Device: REDMI 15 5G / POCO M7 Plus 5G
+Device code name: spring
+Device maintainer: Spike899
+
+Date - 22/10/2026
+=================
+- GMS VARIANT 
+  - Initial PICO release
