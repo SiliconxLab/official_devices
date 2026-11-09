@@ -1,5 +1,6 @@
-Infinity v4.1
-Build Date : 15/10/2026
-- Merged October Security patches
-- Added all features from android 16
-- Added OTA support
+Infinity v4.2
+Build Date : 09/11/2026
+- Workaround for a2dp
+- Switched to oss agm audio
+- Droped AudioFX app
+- Updated blobs from OS3.0.303.0.WGUINXM
